@@ -6,4 +6,4 @@ Date: January 2021
 Stack: HTML, CSS, VueJS
 
 Demo:
-https://jsfiddle.net/actlikeadam/...
+http://learningapp.gattaca.site/
